@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f1d976cc1537e75e",
+        "id": "8c8de28b4854b2fc",
         "type": "tabs",
         "children": [
           {
-            "id": "01b118f2c574ac08",
+            "id": "2e058f2b86d79ee6",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Opinion Dynamics/Literature History.canvas",
                 "viewState": {
-                  "x": -414.5,
-                  "y": -1330,
-                  "zoom": -1.9367046003060975
+                  "x": -417.25081946833564,
+                  "y": -1168.276312161367,
+                  "zoom": -1.2958741323307374
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -172,21 +172,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "435f4ad9ef3470d0",
+  "active": "2e058f2b86d79ee6",
   "lastOpenFiles": [
-    "CoCCoN - Cooperation & Collective Cognition Network/Opinion Dynamics/Voter Model/1995.md",
-    "Opinion Dynamics/Literature History.canvas",
-    "CoCCoN - Cooperation & Collective Cognition Network/Opinion Dynamics/Voter Model",
-    "CoCCoN - Cooperation & Collective Cognition Network/Opinion Dynamics",
-    "CoCCoN - Cooperation & Collective Cognition Network",
-    "AVM.png",
-    "VM.png",
-    "README.md",
-    "Opinion Dynamics/Voter Model/2006.md",
-    "Opinion Dynamics/Voter Model/2003.md",
     "Opinion Dynamics/Voter Model/1995.md",
     "Opinion Dynamics/Voter Model/1975.md",
     "Opinion Dynamics/Voter Model/1973.md",
+    "Opinion Dynamics/Literature History.canvas",
+    "CoCCoN - Cooperation & Collective Cognition Network/Opinion Dynamics/Voter Model/1973.md",
+    "CoCCoN - Cooperation & Collective Cognition Network/Opinion Dynamics/Voter Model/1995.md",
+    "CoCCoN - Cooperation & Collective Cognition Network/Opinion Dynamics/Voter Model",
+    "CoCCoN - Cooperation & Collective Cognition Network/Opinion Dynamics",
+    "CoCCoN - Cooperation & Collective Cognition Network",
+    "Opinion Dynamics/Voter Model/AVM.png",
+    "Opinion Dynamics/Voter Model/VM.png",
+    "README.md",
+    "Opinion Dynamics/Voter Model/2006.md",
+    "Opinion Dynamics/Voter Model/2003.md",
     "Opinion Dynamics/Validation of Opinion Dynamics.md",
     "Opinion Dynamics/Voter Model",
     "Opinion Dynamics"
