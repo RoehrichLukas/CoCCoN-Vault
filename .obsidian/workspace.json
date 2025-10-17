@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "3c1ba614bffddb10",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1d976cc1537e75e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01b118f2c574ac08",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Opinion Dynamics/Literature History.canvas",
+                "viewState": {
+                  "x": -414.5,
+                  "y": -1330,
+                  "zoom": -1.9367046003060975
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Literature History"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c44a536840c49f36",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8b98e80dac52239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435f4ad9ef3470d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1aa57afc1e9d871a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c564e754c8213c45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9838d8edd2380a34",
+    "type": "split",
+    "children": [
+      {
+        "id": "78df19a41067a536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eae16209c9960c94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Opinion Dynamics/Literature History.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Literature History"
+            }
+          },
+          {
+            "id": "2bfeeea939d7a03a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Opinion Dynamics/Literature History.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Literature History"
+            }
+          },
+          {
+            "id": "4a2ce7b487e94a95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f7dbacf4f3794c5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Opinion Dynamics/Literature History.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Literature History"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "435f4ad9ef3470d0",
+  "lastOpenFiles": [
+    "CoCCoN - Cooperation & Collective Cognition Network/Opinion Dynamics/Voter Model/1995.md",
+    "Opinion Dynamics/Literature History.canvas",
+    "CoCCoN - Cooperation & Collective Cognition Network/Opinion Dynamics/Voter Model",
+    "CoCCoN - Cooperation & Collective Cognition Network/Opinion Dynamics",
+    "CoCCoN - Cooperation & Collective Cognition Network",
+    "AVM.png",
+    "VM.png",
+    "README.md",
+    "Opinion Dynamics/Voter Model/2006.md",
+    "Opinion Dynamics/Voter Model/2003.md",
+    "Opinion Dynamics/Voter Model/1995.md",
+    "Opinion Dynamics/Voter Model/1975.md",
+    "Opinion Dynamics/Voter Model/1973.md",
+    "Opinion Dynamics/Validation of Opinion Dynamics.md",
+    "Opinion Dynamics/Voter Model",
+    "Opinion Dynamics"
+  ]
+}
