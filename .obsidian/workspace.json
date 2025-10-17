@@ -15,8 +15,8 @@
               "state": {
                 "file": "Opinion Dynamics/Literature History.canvas",
                 "viewState": {
-                  "x": -406.10728493208103,
-                  "y": -857.7342377404145,
+                  "x": -326.20898952354435,
+                  "y": -944.2907244706336,
                   "zoom": -1.026411010439716
                 }
               },
@@ -153,13 +153,23 @@
               "icon": "lucide-list",
               "title": "Outline of Literature History"
             }
+          },
+          {
+            "id": "d9deaa6e40555b6f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +179,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e058f2b86d79ee6",
+  "active": "435f4ad9ef3470d0",
   "lastOpenFiles": [
     "Opinion Dynamics/Voter Model/1995.md",
     "Opinion Dynamics/Voter Model/1975.md",
